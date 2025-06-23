@@ -1,7 +1,7 @@
 # YOLOv4-Parking-Signs-Detector
 
 ![Demo Image](Images/Detection.png)
-*Example of YOLOv4 Model successfully detecting signs*
+*Example of YOLOv4 Model successfully detecting parking signs from test dataset*
 
 ## Overview
 
