@@ -1,5 +1,8 @@
 # YOLOv4-Parking-Signs-Detector
 
+![Demo Image](Images/Detection.png)
+*Example of YOLOv4 Model successfully detecting signs*
+
 ## Overview
 
 In this project, I use a YOLOv4 model with 2 detection heads (tiny-yolo) and 20 anchor boxes to detect 3 types of parking signs/classes: EV, Accessible, and Charger. The labeled dataset has been obtained from MathWorks.
